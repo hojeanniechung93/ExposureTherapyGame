@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f54e4948a5adf314aad046a9542881c1
+timeCreated: 1500410378
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Normograph
+  fontNames:
+  - Normograph
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

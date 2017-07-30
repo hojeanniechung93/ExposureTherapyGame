@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1142697583184616}
+  m_IsPrefabParent: 1
+--- !u!1 &1142697583184616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4630412861423512}
+  - component: {fileID: 114711345713388114}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4630412861423512
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1142697583184616}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.15, y: 2.14, z: -1.36}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114711345713388114
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1142697583184616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84526579d9b53864da4b18bb3e86c72a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wind: {fileID: 8300000, guid: fff73fb502687f34c9c56a3c24888661, type: 3}
+  grassWalk: {fileID: 8300000, guid: 69a374a84823fda41b150cf28805e2a8, type: 3}
+  woodWalk: {fileID: 8300000, guid: 928b3db10e095bf41b0346a3c60d6a41, type: 3}
+  portalWalk: {fileID: 8300000, guid: f31f05b907486064e979604a7730566e, type: 3}
+  collectTarget: {fileID: 8300000, guid: 2437c5fbe2460cb46984dd52a0f88270, type: 3}
+  warningWind: {fileID: 8300000, guid: 0acc54a7e6ad133498fafdff7a19488b, type: 3}
+  jumpStart: {fileID: 8300000, guid: 48d8e1969fb5ee64fbf07e5213618723, type: 3}
+  jumpEnd: {fileID: 8300000, guid: 5a7c923791c615a468b55c7bc9906291, type: 3}

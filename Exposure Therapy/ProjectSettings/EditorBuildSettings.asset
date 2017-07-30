@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 52534abd9dc325a448d3c5f248d524db
+  - enabled: 0
+    path: 
+    guid: 1a4715a44a36dca4185d7d76ad1ef7c7
+  - enabled: 0
+    path: Assets/TheraphyExample/Scenes/Theraphy_001.unity
+    guid: 161613a562c15774fb6071e21affb5c9
+  - enabled: 1
+    path: Assets/_game/scenes/Theraphy_002.unity
+    guid: a960cf1d02f7b4c4ba735e39cfa08cc1
+  - enabled: 0
+    path: Assets/MazeTest/islands-maze.unity
+    guid: 433294eb80357b7409e85b5016ea3027
+  - enabled: 1
+    path: Assets/_game/scenes/start_maze.unity
+    guid: 8091858bbb9d69f4f942bde2690cd604
+  - enabled: 1
+    path: Assets/_game/scenes/level_bridge_001.unity
+    guid: 46e5d03aecfc2d243a5b981e0e214472
+  - enabled: 1
+    path: Assets/_game/scenes/EndGame.unity
+    guid: 7e55a3eca58e05648877051bd26cb157
+  - enabled: 1
+    path: Assets/_game/scenes/Game_Start.unity
+    guid: eb71bb1a5c0b63041bd20113c60ea4a8
